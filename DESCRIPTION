@@ -11,3 +11,4 @@ URL:  http://www.omegahat.net/RDCOMClient,  http://www.omegahat.net
       http://www.omegahat.net/bugs
 Depends:
     R (>= 3.2.0)
+OS_type: windows
